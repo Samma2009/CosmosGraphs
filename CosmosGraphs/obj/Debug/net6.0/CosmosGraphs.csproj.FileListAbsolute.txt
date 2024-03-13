@@ -1,0 +1,12 @@
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\bin\Debug\net6.0\CosmosGraphs.deps.json
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\bin\Debug\net6.0\CosmosGraphs.dll
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\bin\Debug\net6.0\CosmosGraphs.pdb
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.csproj.AssemblyReference.cache
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.AssemblyInfoInputs.cache
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.AssemblyInfo.cs
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.csproj.CoreCompileInputs.cache
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.dll
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\refint\CosmosGraphs.dll
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\CosmosGraphs.pdb
+C:\Users\samuele\source\repos\CosmosGraphs\CosmosGraphs\obj\Debug\net6.0\ref\CosmosGraphs.dll

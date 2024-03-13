@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYcFC+rSi5wdpMwM+3w8gshp79HgSuwsmSM+7p5gG/egb+Io3zzTTMJaEDl1njUP+8f4hFKrnohdetpZyiE3rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuele\\source\\repos\\CosmosGraphs\\CosmosGraphs\\CosmosGraphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240309044247\\cosmos.build.0.1.0-localbuild20240309044247.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240309044310\\cosmos.common.0.1.0-localbuild20240309044310.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240309044310\\cosmos.core.0.1.0-localbuild20240309044310.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240309044310\\cosmos.debug.kernel.0.1.0-localbuild20240309044310.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240309044310\\cosmos.hal2.0.1.0-localbuild20240309044310.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240309044310\\cosmos.plugs.0.1.0-localbuild20240309044310.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240309044310\\cosmos.system2.0.1.0-localbuild20240309044310.nupkg.sha512",
+    "C:\\Users\\samuele\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240309044310\\il2cpu.api.0.1.0-localbuild20240309044310.nupkg.sha512"
+  ],
+  "logs": []
+}
